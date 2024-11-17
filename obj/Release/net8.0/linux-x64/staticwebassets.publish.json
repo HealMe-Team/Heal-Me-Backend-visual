@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mLcHTvjrAY6xz5d/oTdfoIB5GGwbR3+99ckckdxGkxA=",
+  "Source": "HealMeAppBackend.API",
+  "BasePath": "_content/HealMeAppBackend.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
